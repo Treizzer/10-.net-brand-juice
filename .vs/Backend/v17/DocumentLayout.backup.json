@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\code\\c#\\10-projectcreation\\backend\\backend\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|solutionrelative:backend\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\code\\c#\\10-projectcreation\\backend\\backend\\services\\juiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|solutionrelative:backend\\services\\juiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\code\\c#\\10-projectcreation\\backend\\backend\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|solutionrelative:backend\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\code\\c#\\10-projectcreation\\backend\\backend\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|solutionrelative:backend\\repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\code\\c#\\10-projectcreation\\backend\\backend\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\code\\c#\\10-projectcreation\\backend\\backend\\controllers\\juicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\juicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\code\\c#\\10-projectcreation\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6555B8-D3A9-4D28-ADBC-BD4828DEA540}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Automappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\Automappers\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Automappers\\MappingProfile.cs",
+              "RelativeToolTip": "Backend\\Automappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:45:51.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Repositories\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repositories\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Repositories\\BrandRepository.cs",
+              "RelativeToolTip": "Backend\\Repositories\\BrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T05:30:28.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAABUAAADA0MzMzMwnwB4AAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:12:08.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JuiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Controllers\\JuiceController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\JuiceController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Controllers\\JuiceController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\JuiceController.cs",
+              "ViewState": "AgIAADMAAACApJmZmRkmwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:12:03.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:11:50.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Services\\BrandService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\BrandService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Services\\BrandService.cs",
+              "RelativeToolTip": "Backend\\Services\\BrandService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAABwPVAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:55:37.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JuiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Services\\JuiceService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\JuiceService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Code\\C#\\10-ProjectCreation\\Backend\\Backend\\Services\\JuiceService.cs",
+              "RelativeToolTip": "Backend\\Services\\JuiceService.cs",
+              "ViewState": "AgIAAFkAAAAAMDMzMzMbwHEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T19:55:22.558Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
